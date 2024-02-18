@@ -1,5 +1,5 @@
 {
-    "bot_token": "<discord bot token here>",
+    "bot_token": "MTIwODYzODAzODUyODIzMzU5Mg.GmfBDQ.7BcpCkjUhoMiyODAklHgvTlFtpzE5FxTu2i3do",
     "activity": {
       "activities": [
         {
@@ -11,8 +11,8 @@
     },
     "chat": {
       "url": "http://api.brainshop.ai/get",
-      "brainID": "<brainshop API brain ID here>",
-      "key": "<brainshop API key here>"
+      "brainID": "177202",
+      "key": "QJWn3z1t6mYrYs1J"
     },
     "misc": {
       "channels": [],
